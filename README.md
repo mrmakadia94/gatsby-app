@@ -7,6 +7,9 @@ A Demo React application using default Gatsby starter
 
 1. `git clone https://github.com/mrmakadia94/gatsby-app`.
 2. `cd gatsby-app`.
+3. `npm install`.
+4. `gatsby develop`.
+5. Your site will now be available at `http://localhost:8000/` and GraphiQL available at `http://localhost:8000/___graphql`
 
 
 ## 🧐 What's inside?
